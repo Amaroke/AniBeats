@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AniBeats/static/css/main.625bd490.css",
+    "main.js": "/AniBeats/static/js/main.fe7412e2.js",
+    "index.html": "/AniBeats/index.html",
+    "main.625bd490.css.map": "/AniBeats/static/css/main.625bd490.css.map",
+    "main.fe7412e2.js.map": "/AniBeats/static/js/main.fe7412e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.625bd490.css",
+    "static/js/main.fe7412e2.js"
+  ]
+}
